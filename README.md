@@ -22,7 +22,7 @@ git clone https://github.com/pxtobr/Track-Ip ; cd Track-Ip ; install req.bat ; p
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/pxtobr/desktop-tutorial/main/result.png?token=GHSAT0AAAAAACPWCJ4XCJMWJ4ANHQL7HTAYZPZM5EQ"/>
+<img src="https://raw.githubusercontent.com/pxtobr/desktop-tutorial/main/result.png?token=GHSAT0AAAAAACPWCJ4WDLITRFBRKZSSHGEWZPZNKIA"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
