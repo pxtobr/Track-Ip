@@ -27,5 +27,5 @@ git clone https://github.com/pxtobr/Track-Ip ; cd Track-Ip ; install req.bat ; p
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Find Me on :
-[![Github](https://raw.githubusercontent.com/pxtobr/desktop-tutorial/main/github.png?token=GHSAT0AAAAAACPWCJ4XC2PFKURTSLH27CMMZPZNHYA)](https://github.com/pxtobr)
-[![Instagram](https://raw.githubusercontent.com/pxtobr/desktop-tutorial/main/ig.png?token=GHSAT0AAAAAACPWCJ4WDUBBOZHZSZBDPCDIZPZNHPQ)](https://www.instagram.com/pxtobr)
+[![Github](https://cdn.discordapp.com/attachments/1038901583502643392/1219673820479094886/github.png?ex=660c28c3&is=65f9b3c3&hm=6d25f1375c785282434326f759a90edba87a0826ddc40cb7c3754ce0863ccf8f&)](https://github.com/pxtobr)
+[![Instagram](https://cdn.discordapp.com/attachments/1038901583502643392/1219673820848197722/ig.png?ex=660c28c3&is=65f9b3c3&hm=7f4734dbd299b224ed8ee4645abf6bf4a949f51216bd345f3fc2df3781fcc38c&)](https://www.instagram.com/pxtobr)
