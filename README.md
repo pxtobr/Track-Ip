@@ -2,7 +2,7 @@
 #
 
 <p align="center">
-<a href="#"><img title="Host" src="https://raw.githubusercontent.com/pxtobr/desktop-tutorial/main/Enter%20the%20Ip.png?token=GHSAT0AAAAAACPWCJ4WSD62X2K3RVBRCOWYZPZNJNA"></a>
+<a href="#"><img title="Host" src="https://cdn.discordapp.com/attachments/1038901583502643392/1219576171910660136/Enter_the_Ip.png?ex=660bcdd2&is=65f958d2&hm=182b110bff95c8ade047336bda32eb502fa41cccb73014c2d9cccff313ae0241&"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
@@ -14,7 +14,7 @@
 * `install req.bat`
 * `py track.py`
 
-#### > Run : `bash trackip`
+#### > Run : `py track.py`
 
 ## Single Command :
 ```
@@ -22,7 +22,7 @@ git clone https://github.com/pxtobr/Track-Ip ; cd Track-Ip ; install req.bat ; p
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/pxtobr/desktop-tutorial/main/result.png?token=GHSAT0AAAAAACPWCJ4WDLITRFBRKZSSHGEWZPZNKIA"/>
+<img src="https://cdn.discordapp.com/attachments/1038901583502643392/1219576194920484924/result.png?ex=660bcdd7&is=65f958d7&hm=d1c77dcf152d14d20e62c1868d1e03010ff5757d8dcc08939e872c65162703b4&"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
