@@ -1,8 +1,19 @@
-import requests
-from termcolor import colored
 import time
 import webbrowser
 
+try:
+    import requests
+except ImportError:
+    print('\033[91m' + 'Error: Library "requests" not installed.' + '\033[0m')
+    exit()
+
+try:
+    from termcolor import colored
+except ImportError:
+    print('\033[91m' + 'Error: Library "termcolor" not installed.' + '\033[0m')
+    exit()
+
+# Otra api consigue la informacion de la ip
 def get_ip_info(ip_address):
     try:
         response = requests.get(f'https://ipinfo.io/{ip_address}')
@@ -12,6 +23,7 @@ def get_ip_info(ip_address):
         print(f"Error: {e}")
         return None
 
+# Usa una api para conseguir la ip
 def get_hostname(ip_address):
     try:
         response = requests.get(f'https://api.hackertarget.com/hostsearch/?q={ip_address}')
@@ -37,6 +49,8 @@ def print_ascii_art():
                            By pxtobr
 """, 'cyan'))
 
+
+# Esta es la funcion principal
 def main():
     print_ascii_art()
     ip_address = input("Enter the IP address: ")
@@ -65,7 +79,7 @@ def main():
         url = f'https://www.google.com/maps/search/{lat},{lon}'
         print(colored("Google Maps:", 'green'), colored(url, 'red'))
         webbrowser.open(url)
-        print(colored("-- Follow in Instagram :pxtobr 🐍", 'green'))
+        print(colored("-- Follow in Instagram :pxtobr", 'green'))
     else:
         print(colored("Error: Unable to retrieve IP information.", 'green'))
 

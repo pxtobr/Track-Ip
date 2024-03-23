@@ -14,7 +14,7 @@
 * `install req.bat`
 * `py track.py`
 
-#### > Run : `py track.py`
+#### > Run : `$ py track.py`
 
 ## Single Command :
 ```
