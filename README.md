@@ -11,14 +11,14 @@
 
 * `git clone https://github.com/pxtobr/Track-Ip`
 * `cd Track-Ip`
-* `install req.bat`
+* `install.bat`
 * `py track.py`
 
 #### > Run : `$ py track.py`
 
 ## Single Command :
 ```
-git clone https://github.com/pxtobr/Track-Ip ; cd Track-Ip ; install req.bat ; py track.py
+git clone https://github.com/pxtobr/Track-Ip ; cd Track-Ip ; install.bat ; py track.py
 ```
 <br>
 <p align="center">
