@@ -11,7 +11,7 @@
 
 * `git clone https://github.com/pxtobr/Track-Ip`
 * `cd Track-Ip`
-* `install req.bat`
+* `install.bat`
 * `py track.py`
 
 #### > Run : `$ py track.py`
